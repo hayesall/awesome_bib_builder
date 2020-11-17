@@ -1,7 +1,6 @@
 # Copyright © 2019 Alexander L. Hayes
 # MIT License
 
-import pytest
 from abb.reference import Reference
 
 import bibtexparser

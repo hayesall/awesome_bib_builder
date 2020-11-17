@@ -5,7 +5,6 @@ from abb.bibliography import Bibliography
 from abb.reference import Reference
 from abb.tests.test_reference import bibtex1, bibtex2, bibtex3, bibtex4, bibtex5
 import bibtexparser
-import pytest
 
 
 def test_initialize_bibliography():
