@@ -43,9 +43,6 @@ def run(
     PAPERS_BY_YEAR = biblio.create_papers_by_year_list()
     PAPERS_BY_TOPIC = biblio.create_topics_list()
 
-    # TODO: Create a section for `Algorithms`
-    ALGORITHMS = []
-
     if _verbose:
         print("📜 Reading template: {0}".format(template))
 
